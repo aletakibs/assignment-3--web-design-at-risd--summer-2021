@@ -35,13 +35,13 @@ button {
   border: none;
   margin-top: 5px;
   cursor: url('../img/laser.png'), auto;
-  transition-duration: 5s;
 }
 
 button:hover {
   background-image: url('../img/cat-paw.png');
   background-repeat: no-repeat;
   background-size: 25px;
-  transition: 1s;
+  transition: 1.3s;
+  transition-timing-function: ease-in-out;
   background-position: 100px top;
 }
