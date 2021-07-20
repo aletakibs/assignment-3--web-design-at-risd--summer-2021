@@ -38,3 +38,10 @@ button {
   transition-duration: 5s;
 }
 
+button:hover {
+  background-image: url('../img/cat-paw.png');
+  background-repeat: no-repeat;
+  background-size: 25px;
+  transition: 1s;
+  background-position: 100px top;
+}
