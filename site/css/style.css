@@ -34,3 +34,7 @@ button {
   background-color: #cb8342;
   border: none;
   margin-top: 5px;
+  cursor: url('../img/laser.png'), auto;
+  transition-duration: 5s;
+}
+
