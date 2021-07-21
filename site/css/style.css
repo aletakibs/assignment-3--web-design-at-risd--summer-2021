@@ -72,3 +72,8 @@ p {
   text-align: center;
 }
 
+.all-caps {
+  text-transform: uppercase;
+  font-size: 80px;
+}
+
