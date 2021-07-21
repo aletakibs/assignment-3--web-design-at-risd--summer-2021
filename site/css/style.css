@@ -45,3 +45,10 @@ button:hover {
   transition-timing-function: ease-out;
   background-position: 100px top;
 }
+.main {
+  width: 1200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+}
