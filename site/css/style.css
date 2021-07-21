@@ -5,9 +5,9 @@
 }
 
 header {
-  display: flex;
-  justify-content: flex-end;
-  align-items: flex-end;
+  display: block;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .banner {
