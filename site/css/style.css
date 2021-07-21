@@ -4,6 +4,7 @@
   padding: 0;
 }
 
+/* __________________Nav Bar___________________ */
 header {
   display: block;
   justify-content: space-between;
@@ -45,6 +46,7 @@ button:hover {
   transition-timing-function: ease-out;
   background-position: 100px top;
 }
+/* ____________________Main Page Content________________________ */
 .main {
   width: 1200px;
   display: block;
@@ -84,10 +86,12 @@ hr {
   border-width: 5px;
   border-color: #919389;
 }
+/* _________________________footer_______________________________ */
 .footer {
   margin-top: 100px;
 }
 
+/* _________________________images settings________________________ */
 .img-one {
   width: 60%;
   display: block;
